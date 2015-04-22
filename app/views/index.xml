@@ -1,0 +1,13 @@
+<Alloy>
+	<Window id="index">
+			<ListView id="eventList">
+			<HeaderView>
+                <View backgroundColor="#DDD" height="Ti.UI.SIZE">
+                    <Label>Calendar Events</Label>
+                </View>>
+            </HeaderView>
+			<ListSection id="listItemContainer">
+			</ListSection>
+		</ListView>	
+	</Window>
+</Alloy>
